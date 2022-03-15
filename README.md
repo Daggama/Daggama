@@ -2,6 +2,13 @@
 </h1>
 <h3 align="center">Computer science student from Kazakhstan 🇰🇿</h3>
 
+### 🌱I’m learning
+* <img></img> HTML5
+* CSS3 
+* JS
+* NodeJS
+
+
 
 
 
