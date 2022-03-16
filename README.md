@@ -1,12 +1,11 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Tamerlan 
-</h1>
-<h3 align="center">Computer science student from Kazakhstan 🇰🇿</h3>
+## Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Tamerlan 
+### Computer science student from Kazakhstan 🇰🇿
 
 ### 🌱I’m learning
-* <img></img> HTML5
-* CSS3 
-* JS
-* NodeJS
+* Front-End: HTML, CSS, JS;
+* FullStack: NodsJS, MySQL;
+* Designer: Figma, Wordpress;
+
 
 
 
