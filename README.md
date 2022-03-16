@@ -3,6 +3,7 @@
 
 ### 🌱I’m learning
 * Front-End: HTML, CSS, JS;
+<br> Практиковался в CSS на сайте Cssbattle.dev
 * FullStack: NodsJS, MySQL;
 * Designer: Figma, Wordpress;
 
