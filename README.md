@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Tamerlan 
+## Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>, I'm Tamerlan 
 ### Computer science student from Kazakhstan 🇰🇿
 
 ### 🌱I’m learning
