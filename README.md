@@ -1,11 +1,7 @@
 ## Hi, I'm Tamerlan 
 ### Computer science student from Kazakhstan 🇰🇿
 
-### 🌱I’m learning
-* Front-End: HTML, CSS, JS;
-<br> Practiced css skill on Cssbattle.dev
-* FullStack: NodsJS, MySQL;
-* Designer: Figma, Wordpress;
+
 
 
 
